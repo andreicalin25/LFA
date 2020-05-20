@@ -1,0 +1,5 @@
+4
+S A
+a b
+S bSbb|A
+A aA|λ

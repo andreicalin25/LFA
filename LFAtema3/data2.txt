@@ -1,0 +1,6 @@
+4
+S A B
+a b m z y c d
+S aSb|aA|AbB
+A Ay|BBz
+B bcd|λ

@@ -1,0 +1,6 @@
+3
+S A B
+a b c d e x
+S aSb|cA|dB|λ
+A Ae|S
+B AS|Bx
